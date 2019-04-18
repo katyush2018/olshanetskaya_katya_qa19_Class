@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="wikipedia-web_main" target="1.8" />
-      <module name="wikipedia-web_test" target="1.8" />
+      <module name="open-wiki_main" target="1.8" />
+      <module name="open-wiki_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

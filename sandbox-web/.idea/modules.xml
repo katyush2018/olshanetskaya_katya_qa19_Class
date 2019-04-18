@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sandbox-web.iml" filepath="$PROJECT_DIR$/sandbox-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox-web_main.iml" group="sandbox-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox-web_test.iml" group="sandbox-web" />
+    </modules>
+  </component>
+</project>

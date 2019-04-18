@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-selenium-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-selenium-tests.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-selenium-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-selenium-tests_main.iml" group="wikipedia-selenium-tests" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-selenium-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-selenium-tests_test.iml" group="wikipedia-selenium-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web_main.iml" group="wikipedia-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web_test.iml" group="wikipedia-web" />
     </modules>
   </component>
 </project>
