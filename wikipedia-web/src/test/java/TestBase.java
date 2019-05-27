@@ -4,12 +4,15 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
+import java.util.concurrent.TimeUnit;
+
 public class TestBase {
     WebDriver wd;
 
     @BeforeClass
     public  void  setUp(){
         wd = new ChromeDriver();
+        wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
         openSite();
     }
 

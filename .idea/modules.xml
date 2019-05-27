@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-tests_main.iml" group="trello-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trello-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trello-tests_test.iml" group="trello-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web_main.iml" group="wikipedia-web" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wikipedia-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wikipedia-web_test.iml" group="wikipedia-web" />
